@@ -1,0 +1,24 @@
+{
+  "name": "guess-who-template",
+  "version": "1.0.0",
+  "description": "You will be creating a pick-the-person game with HTML, CSS, and jQuery!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justPeterLee/guess-who-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justPeterLee/guess-who-template/issues"
+  },
+  "homepage": "https://github.com/justPeterLee/guess-who-template#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
